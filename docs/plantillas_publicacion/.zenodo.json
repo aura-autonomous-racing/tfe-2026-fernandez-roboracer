@@ -1,0 +1,13 @@
+{
+  "title": "«Título del TFE»",
+  "description": "«Resumen de 2-3 líneas». Trabajo Fin de «Grado/Máster» en «Titulación», Universidad de Málaga. Equipo AURA – Autonomous Racing (programa UMA Experience).",
+  "upload_type": "software",
+  "license": "Apache-2.0",
+  "creators": [
+    { "name": "«Apellidos, Nombre del autor»", "affiliation": "Universidad de Málaga" }
+  ],
+  "contributors": [
+    { "name": "«Apellidos, Nombre del tutor»", "affiliation": "Universidad de Málaga", "type": "Supervisor" }
+  ],
+  "keywords": ["autonomous driving", "ROS 2", "«palabra clave»"]
+}

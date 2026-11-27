@@ -1,0 +1,20 @@
+# Copiar a la raíz del repositorio al publicarlo y completar los campos «…»
+cff-version: 1.2.0
+message: "Si utilizas este software, cítalo con los datos siguientes."
+title: "«Título del TFE»"
+type: software
+authors:
+  - family-names: "«Apellidos del autor»"
+    given-names: "«Nombre del autor»"
+    affiliation: "Universidad de Málaga – Equipo AURA (Autonomous Racing)"
+    # orcid: "https://orcid.org/«0000-0000-0000-0000»"   # opcional
+version: "1.0"
+date-released: "«AAAA-MM-DD»"
+license: Apache-2.0
+repository-code: "https://github.com/aura-autonomous-racing/«repositorio»"
+# doi: "«10.5281/zenodo.XXXXXXX»"   # añadir tras la primera release en Zenodo
+keywords:
+  - autonomous driving
+  - ROS 2
+  - «palabra clave»
+abstract: "«Resumen de 2-3 líneas»"

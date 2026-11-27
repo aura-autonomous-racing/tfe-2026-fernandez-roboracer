@@ -1,0 +1,35 @@
+# Compilación ROS 2 (colcon)
+build/
+install/
+log/
+# ROS 1 (catkin)
+devel/
+logs/
+.catkin_tools/
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+# Datos grandes: van a Google Drive, no al repositorio
+*.bag
+*.db3
+*.mcap
+rosbags/
+datasets/
+*.mp4
+*.avi
+# Pesos de redes neuronales (si pesan mucho, enlazarlos en el README)
+*.pt
+*.onnx
+*.engine
+# Secretos y configuración local
+.env
+*secret*
+*credenciales*
+# Editores y sistema
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
